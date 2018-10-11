@@ -4,4 +4,4 @@ To run:
 2. Copy "app-debug.apk" to your Android phone from "Testing" folder
 3. Install that .apk  
 4. Make sure the App have permission to use camera
-5. Print "FSMText" and "FSM_enhance" for testing
+5. Print "TestingAR_1" and "TestingAR_2" for testing.
